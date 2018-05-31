@@ -6,5 +6,5 @@
  Tested on Optix 5.0 / CUDA 8.0 / Win 10 x64.
 
 
-![alt text](https://github.com/HungryBear/OptixCore/path-tracer.png "Path Tracer Example")
+![alt text](https://github.com/HungryBear/OptixCore/blob/master/path-tracer.png "Path Tracer Example")
 
